@@ -1,0 +1,46 @@
+[{
+        "question": "2X + 3 = 9 Solve for x",
+        "options": ["3","4","6","-12"],
+        "correct_answers": ["6"]
+    },
+   {
+        "question": "11 + x = 12 Solve for x",
+        "options": ["-1","1","10","-9"],
+        "correct_answers": ["1"]
+    },
+   {
+        "question": "4x + 2x + 1 = 13 Solve for x",
+        "options": ["-31","0","2","1"],
+        "correct_answers": ["2"]
+    },
+   {
+        "question": "10 + 2x = 3x Solve for x",
+        "options": ["2","10","11","-5"],
+        "correct_answers": ["10"]
+    },
+   {
+        "question": "(1/3)x - 3 = 3 Solve for x",
+        "options": ["20","8","18","0","-15"],
+        "correct_answers": ["18"]
+    },
+   {
+        "question": "8x - 4 = 20x + 20 Solve for x",
+        "options": ["3","21","-12","-2"],
+        "correct_answers": ["-2"]
+    },
+   {
+        "question": "100X + 100 = 100x + 100 Solve for x",
+        "options": ["12","105","1","-5","-1"],
+        "correct_answers": ["1"]
+    },
+   {
+        "question": "13x - 2x + 3x + 16 = 0 ?",
+        "options": ["5","-2","1","-31","32"],
+        "correct_answers": ["-2"]
+    },
+   {
+        "question": "10x - 20 = 30 ?",
+        "options": ["18","7","20","1","-14"],
+        "correct_answers": ["1"]
+    }
+ ]

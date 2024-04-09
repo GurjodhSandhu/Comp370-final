@@ -1,0 +1,26 @@
+[{
+        "question": "Lashawn makes scrambled eggs with 5 spoonfuls of salsa for every 2 eggs. Gilberta adds 7 spoonfuls of salsa for every 3 eggs. Whose scrambled eggs have a stronger salsa taste?",
+        "options": ["Lashawn's Eggs","Gilberta's Eggs","The dishes of scrambled eggs have equal salsa tastes."],
+        "correct_answers": ["Lashawn's Eggs"]
+    },
+    {
+        "question": "Olivia needs 54 licks for every 3 lollipops they eat. If Olivia licks 36 times, how many lollipops have they eaten? How many licks will it take to eat 5 lollipops?",
+
+      "options": ["1, 90","5, 60","2, 90"],
+        "correct_answers": ["2, 90"]
+    },
+    {
+        "question": "Omar has a new debit card. He earns 1,800 reward points for spending 300 dollars. At this rate, if Omar earned 600 reward points, how much money did he spend?",
+        "options": ["200", "100", "300"],
+        "correct_answers": ["100"]
+    },
+     {
+        "question": "Makoto likes to eat her trail mix piece by piece. For every 5 pieces of nuts she eats, she eats 2 pieces of candy. Which of the following could be what Makoto eats from a bag of trail mix? (More than one answer)",
+        "options": ["10 pieces of nuts and 4 pieces of candy","15 pieces of nuts and 12 pieces of candy","25 pieces of nuts and 20 pieces of candy","40 pieces of nuts and 18 pieces of candy","45 pieces of nuts and 18 pieces of candy"],
+        "correct_answers": ["10 pieces of nuts and 4 pieces of candy","45 pieces of nuts and 18 pieces of candy"]
+    },
+    {
+        "question": "Connor edits 34 pages in 8 hours. How many pages would Connor edit in 1 hour? How many pages would Connor edit in 12 hours?",
+        "options": ["1, 12", "4.25, 51","7.25, 49"],
+        "correct_answers": ["4.25, 51"]
+    }]

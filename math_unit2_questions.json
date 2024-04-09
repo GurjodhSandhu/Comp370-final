@@ -1,0 +1,46 @@
+ [{
+        "question": "-3 X 4 = ?",
+        "options": ["3","4","6","-12"],
+        "correct_answers": ["-12"]
+    },
+   {
+        "question": "5 X -2 = ?",
+        "options": ["13","-10","10","-29"],
+        "correct_answers": ["-10"]
+    },
+   {
+        "question": "-2 X 5 = ?",
+        "options": ["-3","-10","12","1"],
+        "correct_answers": ["-10"]
+    },
+   {
+        "question": "19 + (-9) = ?",
+        "options": ["3","10","-14","-5"],
+        "correct_answers": ["10"]
+    },
+   {
+        "question": "19 - (-9) = ?",
+        "options": ["0","28","10","9","-15"],
+        "correct_answers": ["28"]
+    },
+   {
+        "question": "10 x -1 = ?",
+        "options": ["1","12","-12","-10"],
+        "correct_answers": ["-10"]
+    },
+   {
+        "question": "-5 % -1 = ?",
+        "options": ["5","15","-15","-5"],
+        "correct_answers": ["5"]
+    },
+   {
+        "question": "10 % -2 = ?",
+        "options": ["5","10","-5","8"],
+        "correct_answers": ["-5"]
+    },
+   {
+        "question": "14 % -2 = ?",
+        "options": ["8","-7","2","14","-14"],
+        "correct_answers": ["-7"]
+    }
+ ]

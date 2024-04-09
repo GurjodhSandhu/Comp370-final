@@ -1,0 +1,11 @@
+Challenge,subject,pointsworth,tracker,tracker2,status
+"Play 1 Math Game","Math", 1, 0, 1,"incomplete"
+"Play 5 Math Games","Math", 5, 0, 5,"incomplete"
+"Play 10 Math Games","Math", 10, 0, 10,"incomplete"
+"Play 20 Math Games","Math", 20, 0, 20,"incomplete"
+"Play 30 Math Games","Math", 30, 0, 30,"incomplete"
+"Play 1 Coding Game","Coding", 1, 0, 1,"incomplete"
+"Play 5 Coding Games","Coding", 5, 0, 5,"incomplete"
+"Play 10 Coding Games","Coding", 10, 0, 10,"incomplete"
+"Play 20 Coding Games","Coding", 20, 0, 20,"incomplete"
+"Play 30 Coding Games","Coding", 30, 0, 30,"incomplete"

@@ -1,0 +1,57 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    alisha:
+      CodeGamesplayed: 0
+      MathGamesplayed: 0
+      challengesCompletedid:
+      - 0
+      email: alishatest@gmail.com
+      logged_in: true
+      name: Alisha
+      ownedbadges:
+      - 0
+      password: $2b$12$DP2E9POZINxrQmxXWH.KQ.aamA.kqNgQi83bVMukw7/XrEhFOc4vy
+      points: 20
+      selectbadgeid: 0
+    gurjodh:
+      CodeGamesplayed: 0
+      MathGamesplayed: 0
+      challengesCompletedid:
+      - 0
+      email: GurjodhSandhu@gmail.com
+      logged_in: false
+      name: Gurjodh
+      ownedbadges:
+      - 0
+      password: $2b$12$SLgmLLnd5GljR8VJW30wZ.QKa8cA.Od.jiDa0v5wbvc37DprkZ20q
+      points: 20
+      selectbadgeid: 0
+    jasdeep:
+      CodeGamesplayed: 0
+      MathGamesplayed: 0
+      challengesCompletedid:
+      - 0
+      email: Jasdeeptest@gmail.com
+      logged_in: false
+      name: Jasdeep
+      ownedbadges:
+      - 0
+      password: $2b$12$rovRzHXeO0hob5X6AsQdV.pn259TEEosj8jLzSFCC7gG3fsXYsvGe
+      points: 20
+      selectbadgeid: 0
+    test:
+      MathGamesplayed: 0
+      email: gurjodhtest@gmail.com
+      logged_in: false
+      name: test
+      ownedbadges:
+      - 0
+      password: $2b$12$mf3oxxKr.wH4k7vr8saG4egdipONEVuEBnAlbuCEzxmyF3wejI5b.
+      points: 20
+      selectbadgeid: 0
+preauthorized:
+  emails: null

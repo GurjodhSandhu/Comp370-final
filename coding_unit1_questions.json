@@ -1,0 +1,36 @@
+ [{
+        "question": "What data type is x? X = Hello world",
+        "options":  ["String","integer","float","list","Boolean"],
+        "correct_answers": ["String"]
+    },
+   {
+        "question": "What data type is x? X = 10",
+        "options":  ["String","integer","float","list","Boolean"],
+        "correct_answers": ["integer"]
+    },
+   {
+        "question": "What data type is x? X = 10.5",
+        "options":  ["String","integer","float","list","Boolean"],
+        "correct_answers": ["float"]
+    },
+   {
+       "question": "What data type is x? X = ['this', 'is', 'a', 'what?']",
+        "options":  ["String","integer","float","list","Boolean"],
+        "correct_answers": ["list"]
+    },
+   {
+        "question": "What data type is x? X = True",
+        "options":  ["String","integer","float","list","Boolean"],
+        "correct_answers": ["Boolean"]
+    },
+   {
+        "question": "What data type is x? X = '5'",
+        "options":  ["String","integer","float","list","Boolean"],
+        "correct_answers": ["String"]
+    },
+   {
+        "question": "What data type is x? X = 'True'",
+        "options":  ["String","integer","float","list","Boolean"],
+        "correct_answers": ["String"]
+    }
+ ]
