@@ -224,8 +224,7 @@ if st.session_state["authentication_status"]: #if the user is authenticated curr
     with colm32:
         st.markdown(
             #embedded unit video
-            """<iframe width="560" height="315" src="https://www.youtube.com/embed/NQSN00zL5gg?si=NLr9wwoi6aZ9Wv4v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>""",
-            unsafe_allow_html=True)
+"""<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ppsCxnNm-JI?si=j7JBwF5PgAkIv5Gu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>""",            unsafe_allow_html=True)
         # components.iframe("https://www.youtube.com/embed/NQSN00zL5gg?si=NLr9wwoi6aZ9Wv4v", width=700, height=400)
     st.markdown("""<hr>""", unsafe_allow_html=True)
     #----------------------page code end---------------------------------
