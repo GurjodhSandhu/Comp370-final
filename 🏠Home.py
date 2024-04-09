@@ -174,7 +174,7 @@ if st.session_state["authentication_status"]: #if the user is authenticated curr
 
 else: #registration for the website
     try:
-        email_of_registered_user, username_of_registered_user, name_of_registered_user = authenticator.register_user(preauthorization=False)
+        email_of_registered_user, username_of_registered_user, name_of_registered_user = authenticator.register_user(pre_authorization=False)
         if email_of_registered_user:
             st.success('User registered successfully')
             config['credentials']['usernames'][username_of_registered_user]['points'] = 20
