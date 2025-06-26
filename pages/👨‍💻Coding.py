@@ -101,8 +101,7 @@ authenticator = stauth.Authenticate( #setting up cookies
     config['credentials'],
     config['cookie']['name'],
     config['cookie']['key'],
-    config['cookie']['expiry_days'],
-    config['preauthorized']
+    config['cookie']['expiry_days']
 )
 
 #code for login
