@@ -17,6 +17,19 @@ credentials:
       password: $2b$12$DP2E9POZINxrQmxXWH.KQ.aamA.kqNgQi83bVMukw7/XrEhFOc4vy
       points: 20
       selectbadgeid: 0
+    example:
+      CodeGamesplayed: 0
+      MathGamesplayed: 0
+      challengesCompletedid:
+      - 0
+      email: example@example.ca
+      logged_in: false
+      name: example
+      ownedbadges:
+      - 0
+      password: $2b$12$GojH3Cg3v6GFVLizjS4jNOH75Y8Wvgr0SfCrMmcrObzMWm8JE3XgO
+      points: 20
+      selectbadgeid: 0
     gurjodh:
       CodeGamesplayed: 0
       MathGamesplayed: 0
